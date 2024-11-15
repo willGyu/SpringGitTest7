@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     	
+<<<<<<< HEAD
     <wb-module deploy-name="SpringGitTest">
+=======
+    <wb-module deploy-name="web-1.0.0-BUILD-SNAPSHOT">
+>>>>>>> branch 'develop' of https://github.com/willGyu/SpringGitTest7.git
                 
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         		
