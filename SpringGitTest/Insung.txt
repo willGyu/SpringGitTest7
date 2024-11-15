@@ -1,4 +1,27 @@
 insung test
-fasd
 
-asdgsadg
+
+change branch
+
+Team -> switch to -> other.. -> Remote tracking 
+
+Default branch 
+
+develop 
+
++ New project
+
+board 형태 추천 
+
+... -> setting -> manage access -> invite collaborators 
+
+작업 게시판 
+
+
+
+new local branch -> finish 
+
+작업 추가 -> 이슈 추가 -> 이슈 내용 적고 -> 브랜치 만들고 -> sts에서 풀
+
+
+feature 브랜치: 이슈로 생성한 브랜치 
